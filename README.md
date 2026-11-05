@@ -8,4 +8,5 @@ Learning C, Java, and Data Structures.
 ## Interests
 Interested in web development and technology.
 ## Goals
-Goal: Build real-world projects and contribute to open source. 
+Goal: Build real-world projects and contribute to open source.
+
